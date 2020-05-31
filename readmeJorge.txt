@@ -1,0 +1,1 @@
+Redirigir salida a txt
